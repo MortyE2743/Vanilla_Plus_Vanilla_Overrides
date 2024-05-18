@@ -470,8 +470,3 @@ class CfgMagazines
 		};
 	};
 };
-	
-	
-	
-	
-	
